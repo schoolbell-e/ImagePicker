@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="multi_app_name">MultiImageChooser</string>
     <string name="free_version_label">무료 버전 - 남은 이미지: %d</string>
