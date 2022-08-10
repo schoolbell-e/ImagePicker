@@ -3,5 +3,11 @@
     <string name="multi_app_name">MultiImageChooser</string>
     <string name="free_version_label">무료 버전 - 남은 이미지: %d</string>
     <string name="error_database">이미지 데이터베이스를 여는 데 오류가 발생했습니다. 문제를 보고하세요.</string>
-    <string name="requesting_thumbnails">썸네일 요청 중. 기다려주세요</string>
+    <string name="requesting_thumbnails">썸네일 요청 중입니다.</string>
+    <string name="multi_image_picker_processing_images_title">이미지를 처리 중입니다.</string>
+    <string name="multi_image_picker_processing_images_message">잠시만 기다려주세요.</string>
+    <string name="discard" translatable="false">취소</string>
+    <string name="done" translatable="false">확인</string>
+    <string name="max_count_photos_title">최대 %d장의 사진</string>
+    <string name="max_count_photos_message">한 번에 %d장까지만 선택할 수 있습니다.</string>
 </resources>
