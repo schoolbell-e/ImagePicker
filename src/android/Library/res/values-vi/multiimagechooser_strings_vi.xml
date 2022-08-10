@@ -4,10 +4,10 @@
     <string name="free_version_label">Phiên bản miễn phí - hình ảnh còn lại: %d</string>
     <string name="error_database">Đã xảy ra lỗi khi mở cơ sở dữ liệu hình ảnh. Vui lòng báo cáo bất kỳ vấn đề nào.</string>
     <string name="requesting_thumbnails">Yêu cầu hình thu nhỏ.</string>
-    <string name="multi_image_picker_processing_images_title">이미지를 처리 중입니다.</string>
-    <string name="multi_image_picker_processing_images_message">잠시만 기다려주세요.</string>
+    <string name="multi_image_picker_processing_images_title">Hình ảnh đang được xử lý.</string>
+    <string name="multi_image_picker_processing_images_message">Điều này có thể mất một chút thời gian.</string>
     <string name="discard" translatable="false">sự hủy bỏ</string>
     <string name="done" translatable="false">Xác nhận</string>
     <string name="max_count_photos_title">Lên đến %d ảnh</string>
-    <string name="max_count_photos_message">Bạn chỉ có thể chọn tối đa %d thẻ cùng một lúc.</string>
+    <string name="max_count_photos_message">Bạn chỉ có thể chọn tối đa %d ảnh cùng một lúc.</string>
 </resources>
